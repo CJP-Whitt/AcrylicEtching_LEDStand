@@ -11,7 +11,10 @@ Works with most LED ws2812 led strips
 Final
 ![alt test](LEDStand_Photos/Stand_Done.jpg)
 
-This is the rear of it where I stored the brains for the stand to d the light functions.
+This is the rear of it where I stored the brains for the stand to do the light functions.
 ![alt test](LEDStand_Photos/BaseRear.jpg)
 
-![alt test](LEDStand_Photos/BaseRear.jpg)
+Stand Top
+![alt test](LEDStand_Photos/Frame_Topdowm.jpg)
+
+
