@@ -1,6 +1,6 @@
 # AcrylicEtching_LEDStand
 LED emitting base for lighting up etched acrylic panes,
-Fusion 360 CAD file dynamic link: 
+Fusion 360 CAD file dynamic link: https://a360.co/38uqRMo
 
 3 piece 3D printed etched acrylic LED stand.
 For 3mm thick panes, 125mm wide, any height but it only lights it up well to about 200mm. (I have another repo for a full LED frame that fixes that).
