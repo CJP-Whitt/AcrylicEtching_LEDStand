@@ -14,7 +14,8 @@ Final
 This is the rear of it where I stored the brains for the stand to do the light functions.
 ![alt test](LEDStand_Photos/BaseRear.jpg)
 
-Stand Top
-![alt test](LEDStand_Photos/Frame_Topdowm.jpg)
+Stand Topdown View
+![alt test](LEDStand_Photos/Frame_Topdown.jpg)
+
 
 
